@@ -1,7 +1,7 @@
 # Tutorial-Kaloborasi
-cara kami berkolaborasi menggunakan github dengan teman"
+cara berkolaborasi menggunakan github dengan teman"
 
 =========================================================================================================
 
 # Tutorial collaborate 
-how we collaborate using github with friends
+how to collaborate using github with friends
